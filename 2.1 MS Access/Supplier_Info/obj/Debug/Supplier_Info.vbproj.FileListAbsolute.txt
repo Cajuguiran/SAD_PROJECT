@@ -1,0 +1,26 @@
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\bin\Debug\Supplier_Info.exe.config
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\bin\Debug\Supplier_Info.exe
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\bin\Debug\Supplier_Info.pdb
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\bin\Debug\Supplier_Info.xml
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.vbproj.AssemblyReference.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.Form1.resources
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.Resources.resources
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.vbproj.GenerateResource.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.vbproj.CoreCompileInputs.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.exe
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.xml
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 Activity_MamRae\Supplier_Info\obj\Debug\Supplier_Info.pdb
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\bin\Debug\Supplier_Info.exe.config
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\bin\Debug\Supplier_Info.exe
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\bin\Debug\Supplier_Info.pdb
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\bin\Debug\Supplier_Info.xml
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.vbproj.AssemblyReference.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.Form1.resources
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.Resources.resources
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.vbproj.GenerateResource.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.vbproj.CoreCompileInputs.cache
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.exe
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.xml
+C:\Users\PATRICK\OneDrive\Documents\2nd Year\2nd Sem\S.A.D (Mam Rae)\2.1 MS Access\Supplier_Info\obj\Debug\Supplier_Info.pdb
